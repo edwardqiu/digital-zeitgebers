@@ -1,6 +1,6 @@
 # Digital Zeitgebers
 
-A [BitBar](https://github.com/matryer/bitbar) plugin reminds you of certain sleep hyigene recommendations, such as when to avoid blue light, caffeine, etc., at the proper time.
+A [BitBar](https://github.com/matryer/bitbar) plugin that reminds you with sleep hygiene recommendations, such as when to avoid blue light, caffeine, etc., at the proper time.
 
 ![](docs/banner.png)
 
