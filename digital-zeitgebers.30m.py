@@ -25,7 +25,7 @@ def generate_message_and_link():
     if current_hour_military_time == wakeup_time or wakeup_time - current_hour_military_time == 1:
         message = ":alarm_clock: Good morning! Time to get up!"
         topic = "Chronotypes and Circadian Rhythms"
-        link = "https://www.scielo.br/pdf/bjmbr/v41n10/7132.pdf"
+        link = "http://www.scielo.br/pdf/bjmbr/v41n10/7132.pdf"
     elif bedtime - current_hour_military_time <= 6:
         message = ":coffee: No more caffeine!"
         topic = "Caffeine's effect on sleep"
@@ -41,7 +41,7 @@ def generate_message_and_link():
     elif bedtime == current_hour_military_time:
         message = ":sleeping: Good night! Time for bed!"
         topic = "Chronotypes and Circadian Rhythms"
-        link = "https://www.scielo.br/pdf/bjmbr/v41n10/7132.pdf"
+        link = "http://www.scielo.br/pdf/bjmbr/v41n10/7132.pdf"
     return [message, topic, link]
 
 if __name__ == '__main__':
