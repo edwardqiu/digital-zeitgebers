@@ -27,7 +27,8 @@ Currently Digital Zeitgebers is only works for MacOS, because it is a plugin for
 - [Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805807/)
 - [Chapter 30 - Jet Lag and Its Prevention](https://www.sciencedirect.com/science/article/pii/B9781437717037100301)
 - [Chapter Three - Natural Variation in Human Clocks](https://www.sciencedirect.com/science/article/abs/pii/S0065266017300202)
-
+- [Light, Sleep & School-Aged Children: A Complex Relationship](https://www.sleepfoundation.org/articles/light-sleep-school-aged-children-complex-relationship)
+- [The effects of time of day and chronotype on cognitive and physical performance in healthy volunteers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6200828/)
 
 
 
